@@ -6,7 +6,7 @@
 
 Project Website: https://boinc.berkeley.edu
 
-## Want to create a project
+## Want to create a projectasd
 See: https://boinc.berkeley.edu/trac/wiki
 
 ## Want to help translate
